@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "𝗠𝗥 𝗜𝗕𝗥𝗔𝗛𝗜𝗠",
+      "value": "Ś Ń  Α ˌ Ŕ Ќ O",
       "required" :true
     },   
      
@@ -27,17 +27,17 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗪𝗔𝗕𝗢𝗧"
+      "value": "ŚŃ Α ˌŔЌ O ḾĐ "
     }, 
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/fdeb9bdbfae04a6b62dd4.jpg"
+      "value": "https://telegra.ph/file/ea14da6e3d042c039df38.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :false,    
-      "value": "Africa/Nairobi"
+      "value": "Africa/Cairo"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
@@ -57,7 +57,7 @@
     "AUTO_SAVE_STATUS": {
       "description": " Auto save whatsapp status", 
       "required" :false,   
-      "value": "false"
+      "value": "true"
     }, 
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
@@ -66,7 +66,7 @@
     },   
     "HEROKU_APP_NAME": {
       "description": "Put Your Heroku App Name Here",
-      "value": "",
+      "value": "snarko-md",
     "required" :true
     }, 
     "WAPRESENCE": {
@@ -77,12 +77,12 @@
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
       "required" :false,
-      "value": "true"
+      "value": "false"
     }, 
     "MSGS_IN_LOG": {
       "description": "Fill the value true if you want to see Messages in Console.",
       "required" :false,
-      "value": "false"
+      "value": "true"
     },
     "READ_MESSAGE": {
       "description": "Fill the value true if you want bot to read all messages.",
@@ -96,15 +96,15 @@
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot.",
-      "value": "."
+      "value": "/"
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "254710772666"
+      "value": "201095499866"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
-      "value": ""
+      "value": "PANTHER;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUUpnQ003azJkbnJOa3hqb3FlRlltZFIwUXFBYllhTkhQRERQcVRYWHVHOD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTmV3YkJZdGNUOGVFRVJwN3NOV0pYKzNmdkEzcnlJK1dWejF2eUZ4K2FEcz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJTSmZXRVgyclg2MHgwNTRuUmRSWmZsRVpyd045VFNvK29XS3M4Tjh5em1ZPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJlTjhzSWZidmowWFJ2RTM1UVJNd0p5Q3JKOG8wQ2FzWFF6S2J6UE9IdVU4PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkdLNytvVzhybnJzMlpXcGFUbVU5L2N5QVM5U1A5dG1iQlhaZllsaVp4RVE9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImVySUwrVlRycW5JaDZheUJ4bDBrV0ZsbDFad1pSZFZrWnhMVk8rS2h1V3c9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiVUhNYjVjekYwY28xaGkxNm1qaUJZRU9yeGY0TzBBSTQwMWNWZ2tLV2owUT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZGdyWWxCVVMwNGp3ZXhtZlVUZ2kyRFV3NTNIZ0Y5ajEzWk5UejhSTFRqUT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkpUWUN0MUV3dncxdVEvRWRsUXkydThSMGZZY05TRjVlb2NzRzhLRTJCS3ErN2xaRmFpODJpcC9jMEM2Z3hzRWhMd2g2eVFNazIwSjV3QktUSnFPZ0NRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTg5LCJhZHZTZWNyZXRLZXkiOiJnTGlNSHpkQTROUHYxR3BUUUlUR3MwUitCck8xcmh5OUd3RHdQVWdqdjZvPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJOZ09OaTZkU1JrcWZ5RUFrdHJnOUhBIiwicGhvbmVJZCI6ImI3MmE5ZWU1LTM3MWMtNDg0Ny04ZDZlLTM5MmYyZmE4ZjY2MiIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJmZW9sVndLRVNIaGFEWnpOS2VheGU5MG9NRWM9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSGpXa091dkYrdy9CVFBXRnA4UHJQNXFRN0EwPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IjRIV1JWSFM1IiwibWUiOnsiaWQiOiIyMDEwOTU0OTk4NjY6NjFAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoi2KfYudiq2KjYsdmI2YbZiiDYstix2KfYsSDYp9mE2KfYrdinIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNQaUx4TDhGRUpXVnJiRUdHQUVnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJndWQyNWd4U1FTcXpHMkl5aGRKSXdEZ3hXeFlLa2thSUcvcUxSelh4NVIwPSIsImFjY291bnRTaWduYXR1cmUiOiJRSFdPQkNJNUVtaE1Gb0NIbWRlREhFUFNPQ1lZSjR1cEVzcG5ZbWJFVEIyVjFhbUh5eWpoV1Z5Vy83eDFDQVZxNXNqN25wT3FwMEpOeE9FZHNjUWVEUT09IiwiZGV2aWNlU2lnbmF0dXJlIjoiYzhiOUtTM05idC90bzREck54YmxuY3RkMFk3TG4wdjZBSGx5WnZlVThrbnVvdENFNEVNQ0lMOU41S0xMNFRNS2pWYlVTRjViY2hneTQ0QmE3WCsyQVE9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyMDEwOTU0OTk4NjY6NjFAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCWUxuZHVZTVVrRXFzeHRpTW9YU1NNQTRNVnNXQ3BKR2lCdjZpMGMxOGVVZCJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcxNDExMzE4NiwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFQYVcifQ=="
   
     },
     "OPENAI_API_KEY": {
@@ -124,16 +124,16 @@
     },
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-      "value": "public"
+      "value": "private"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗧𝗘𝗖𝗛",
+      "value": "سسنأأركؤؤ أأل بأأششأأ",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗧𝗘𝗖𝗛",
+      "value": "𝒃 𝒐 𝒕",
       "required": false 
     }
   }, 
